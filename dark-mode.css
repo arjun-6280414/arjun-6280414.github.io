@@ -1,0 +1,9 @@
+/* dark-mode.css */
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode header {
+  background-color: #222;
+}
